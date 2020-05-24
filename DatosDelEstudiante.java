@@ -52,6 +52,9 @@ public class DatosDelEstudiante {
         System.out.println("Ingrese la provincia:");
         String provincia=objeto.nextLine();
         
+        System.out.println("Ingrese la parroquia donde vive:");
+        String parroquia=objeto.nextLine();
+        
         System.out.println("Ingrese su ID:");
         String ID=objeto.nextLine();
         
